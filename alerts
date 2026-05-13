@@ -1,0 +1,22 @@
+{
+  "alerts": [
+    {
+      "id": "update-required-2026-05",
+      "title": "Update Required",
+      "date": "May 2026",
+      "message": "Please update to the latest version of Checkmate for the newest fixes and features.",
+      "publishedAt": "2026-05-13T00:00:00Z",
+      "ctaLabel": "Update Now",
+      "ctaUrl": "https://play.google.com/store/apps/details?id=com.youtilitiescheckmate.app"
+    },
+    {
+      "id": "feedback-request-2026-05",
+      "title": "We Want Your Feedback",
+      "date": "May 2026",
+      "message": "Tell us what you want next in Checkmate. Your feedback shapes the roadmap.",
+      "publishedAt": "2026-05-12T00:00:00Z",
+      "ctaLabel": "Send Feedback",
+      "ctaUrl": "https://forms.gle/REPLACE_WITH_YOUR_FORM"
+    }
+  ]
+}
