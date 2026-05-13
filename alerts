@@ -17,16 +17,6 @@
       "publishedAt": "2026-05-12T00:00:00Z",
       "ctaLabel": "Send Feedback",
       "ctaUrl": "https://forms.gle/REPLACE_WITH_YOUR_FORM"
-    },
-       {
-      "id": "feedback-request-2026-06",
-      "title": "We Want Your curry",
-      "date": "May 2026",
-      "message": "Your country needs you!.",
-      "publishedAt": "2026-05-12T00:00:00Z",
-      "ctaLabel": "Send Feedback",
-      "ctaUrl": "https://forms.gle/REPLACE_WITH_YOUR_FORM"
-    },
-
-]
+    }
+  ]
 }
