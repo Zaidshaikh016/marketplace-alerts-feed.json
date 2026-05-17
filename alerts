@@ -2,7 +2,7 @@
 {
   "alerts": [
     {
-      "id": "update-required-2026-05-17",
+      "id": "update-required-2026-05-18",
       "title": "Update Required",
       "date": "May 18 2026",
       "message": "Please update to the latest version of Checkmate for the newest fixes and features.",
