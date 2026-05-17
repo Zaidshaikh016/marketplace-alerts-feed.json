@@ -2,12 +2,12 @@
 {
   "alerts": [
     {
-      "id": "update-required-2026-05-20",
+      "id": "update-required-2026-05-21",
       "title": "Update Required",
-      "date": "May 19 2026",
+      "date": "May 20 2026",
       "message": "Please update to the latest version of Checkmate for the newest fixes and features.",
       "publishedAt": "2026-05-13T00:00:00Z",
-      "ctaLabel": "Update Now",
+      "ctaLabel": "Update Now!",
       "ctaUrl": "https://play.google.com/store/apps/details?id=com.youtilitiescheckmate.app"
     },
     {
