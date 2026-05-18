@@ -2,9 +2,9 @@
 {
   "alerts": [
     {
-      "id": "update-required-2026-05-19",
+      "id": "update-required-2026-05-20",
       "title": "Update now!",
-      "date": "May 19 2026",
+      "date": "May 20 2026",
       "message": "Please update to the latest version of Checkmate for the newest fixes and features such as Cast and Images!.",
       "publishedAt": "2026-05-13T00:00:00Z",
       "ctaLabel": "Update now!",
