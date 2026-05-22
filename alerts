@@ -2,8 +2,8 @@
 {
   "alerts": [
     {
-      "id": "feedback-request-2026-05-18",
-      "title": "We Want Your Feedback",
+      "id": "feedback-request-2026-05-22",
+      "title": "We would like Your Feedback",
       "date": "May 18 2026",
       "message": "Tell us what you want next in Checkmate. Your feedback shapes the roadmap.",
       "publishedAt": "2026-05-12T00:00:00Z",
